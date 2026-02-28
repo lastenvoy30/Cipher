@@ -4,6 +4,7 @@ import path from 'path'
 
 export default defineConfig({
   plugins: [react()],
+  base: process.env.VITE_BASE_PATH || "/Cipher"
   resolve: {
     dedupe: ['react', 'react-dom'],
   },
