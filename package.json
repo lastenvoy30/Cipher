@@ -23,7 +23,6 @@
     "warning": "🚨 CRITICAL: DO NOT REMOVE OR MODIFY ABOVE DEPENDENCIES - Required for app functionality"
   },
   "dependencies": {
-    "@dhiwise/component-tagger": "^1.0.14",
     "@radix-ui/react-slot": "^1.2.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
