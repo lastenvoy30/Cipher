@@ -51,7 +51,7 @@ const PrimaryTabNav = () => {
           <div className="primary-tab-nav-logo-icon">
             <Icon name="ShieldCheck" size={24} color="var(--color-primary)" />
           </div>
-          <span className="primary-tab-nav-logo-text">CyberGuard Academy</span>
+          <span className="primary-tab-nav-logo-text">Cipher</span>
         </div>
 
         <div className="primary-tab-nav-tabs">
